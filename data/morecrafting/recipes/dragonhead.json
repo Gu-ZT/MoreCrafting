@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " H#",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:obsidian"
+        },
+        "H": {
+            "item": "minecraft:end_crystal"
+        }
+    },
+    "result": {
+        "item": "minecraft:dragon_head",
+        "count": 1
+    },
+    "group": "Custom"
+}
