@@ -7,26 +7,26 @@
 ## 有序合成：
 ### Ordered synthesis:
   
-  ![Image text](https://s2.ax1x.com/2019/08/11/evFfoT.png)
-  ![Image text](https://s2.ax1x.com/2019/08/11/evF5YF.png)
-  ![Image text](https://s2.ax1x.com/2019/08/11/evFbO1.png)
-  ![Image text](https://s2.ax1x.com/2019/08/11/evFvFO.png)
-  ![Image text](https://s2.ax1x.com/2019/08/11/evFXTK.png)
-  ![Image text](https://s2.ax1x.com/2019/08/11/evFLex.png)
-  ![Image text](https://s2.ax1x.com/2019/08/11/evFOw6.png)
+  ![图片加载错误](https://s2.ax1x.com/2019/08/11/evFfoT.png)
+  ![图片加载错误](https://s2.ax1x.com/2019/08/11/evF5YF.png)
+  ![图片加载错误](https://s2.ax1x.com/2019/08/11/evFbO1.png)
+  ![图片加载错误](https://s2.ax1x.com/2019/08/11/evFvFO.png)
+  ![图片加载错误](https://s2.ax1x.com/2019/08/11/evFXTK.png)
+  ![图片加载错误](https://s2.ax1x.com/2019/08/11/evFLex.png)
+  ![图片加载错误](https://s2.ax1x.com/2019/08/11/evFOw6.png)
  
 ## 无序合成：
 ### Disordered synthesis:
   
-  ![Image text](https://s2.ax1x.com/2019/08/11/evk9ld.png)
-  ![Image text](https://s2.ax1x.com/2019/08/11/evkpSH.png)
-  ![Image text](https://s2.ax1x.com/2019/08/11/evFxYD.png)
-  ![Image text](https://s2.ax1x.com/2019/08/11/evFHyR.png)
+  ![图片加载错误](https://s2.ax1x.com/2019/08/11/evk9ld.png)
+  ![图片加载错误](https://s2.ax1x.com/2019/08/11/evkpSH.png)
+  ![图片加载错误](https://s2.ax1x.com/2019/08/11/evFxYD.png)
+  ![图片加载错误](https://s2.ax1x.com/2019/08/11/evFHyR.png)
 
 ## 熔炉烧制：
 ### Furnace firing:
   
-  ![Image text](https://s2.ax1x.com/2019/08/11/evFzfe.png)
+  ![图片加载错误](https://s2.ax1x.com/2019/08/11/evFzfe.png)
   
 ## 支持我们：
 ### Support us:
@@ -44,8 +44,8 @@
 
   1.https://afdian.net/@guzt2333
   
-  2.![Image text](https://attachment.mcbbs.net/forum/201811/03/211633o11vopokkvch6l7l.jpg)
+  2.![图片加载错误](https://attachment.mcbbs.net/forum/201811/03/211633o11vopokkvch6l7l.jpg)
   
-  3.![Image text](https://attachment.mcbbs.net/forum/201811/03/214254vqtksgy118gkk5zy.png)
+  3.![图片加载错误](https://attachment.mcbbs.net/forum/201811/03/214254vqtksgy118gkk5zy.png)
   
-  4.![Image text](https://attachment.mcbbs.net/forum/201811/03/220335rcjhuqqjmqcqq71p.jpg)
+  4.![图片加载错误](https://attachment.mcbbs.net/forum/201811/03/220335rcjhuqqjmqcqq71p.jpg)
