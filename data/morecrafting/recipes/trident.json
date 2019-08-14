@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        " D ",
+        " D "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_sword"
+        },
+        "D": {
+            "item": "minecraft:bamboo"
+        }
+    },
+    "result": {
+        "item": "minecraft:trident",
+        "count": 1
+    },
+    "group": "Custom"
+}
