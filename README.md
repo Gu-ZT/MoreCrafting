@@ -27,3 +27,17 @@
 ### Furnace firing:
   
   ![Image text](https://s2.ax1x.com/2019/08/11/evFzfe.png)
+  
+## 支持我们：
+### Support us:
+
+  1.创建分支，分支名称填您的正版ID(将“_”替换为“-”)或论坛ID@论坛域名，例："Gu-ZT"或“古怪6666@MCBBS”。
+  1. Create a branch and fill in your original ID (replace "" with "-") or forum ID@forum domain name, such as "Gu-ZT" or "古怪6666@MCBBS".
+  
+  2.提交您的代码，可以新建文件夹或命名空间。
+  2. Submit your code to create a new folder or namespace.
+
+## 赞助我们：
+### Sponsor us:
+
+  1.
