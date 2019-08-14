@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " H ",
+        "###",
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:white_wool"
+        },
+        "D": {
+            "item": "minecraft:oak_sign"
+        },
+        "H": {
+            "item": "minecraft:lead"
+        }
+    },
+    "result": {
+        "item": "minecraft:name_tag",
+        "count": 1
+    },
+    "group": "Custom"
+}
