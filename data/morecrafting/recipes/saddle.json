@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        " H "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:leather"
+        },
+        "H": {
+            "item": "minecraft:tripwire_hook"
+        }
+    },
+    "result": {
+        "item": "minecraft:saddle",
+        "count": 1
+    },
+    "group": "Custom"
+}
