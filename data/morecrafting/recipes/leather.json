@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#H#",
+        "H#H",
+        "#H#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:rabbit_hide"
+        },
+        "H": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "minecraft:leather",
+        "count": 2
+    },
+    "group": "Custom"
+}
