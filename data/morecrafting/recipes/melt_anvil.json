@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:anvil"
+    },
+    "result": {
+        "item": "minecraft:iron_block",
+        "count": 3
+    },
+    "experience": 0,
+    "cookingtime": 200
+}

@@ -1,20 +1,19 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
         "# #",
-        " H "
+        "i i"
     ],
     "key": {
         "#": {
-            "item": "minecraft:leather"
+            "item": "minecraft:iron_nugget"
         },
-        "H": {
-            "item": "minecraft:tripwire_hook"
+        "i": {
+            "item": "minecraft:iron_ingot"
         }
     },
     "result": {
-        "item": "minecraft:saddle",
+        "item": "minecraft:chainmail_boots",
         "count": 1
     }
 }

@@ -1,5 +1,5 @@
 {
-    "type": "crafting_shaped",
+    "type": "minecraft:crafting_shaped",
     "pattern": [
         "#  ",
         "###",
@@ -13,6 +13,5 @@
     "result": {
         "item": "minecraft:iron_horse_armor",
         "count": 1
-    },
-    "group": "Custom"
+    }
 }

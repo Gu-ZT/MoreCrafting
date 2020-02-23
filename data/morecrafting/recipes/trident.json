@@ -1,5 +1,5 @@
-{
-    "type": "crafting_shaped",
+﻿{
+    "type": "minecraft:crafting_shaped",
     "pattern": [
         "###",
         " D ",
@@ -16,6 +16,5 @@
     "result": {
         "item": "minecraft:trident",
         "count": 1
-    },
-    "group": "Custom"
+    }
 }

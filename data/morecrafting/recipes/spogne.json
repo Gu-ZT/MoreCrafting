@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#W#",
+        "WSW",
+        "#W#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:paper"
+        },
+        "W": {
+            "tag": "wools"
+        },
+        "S": {
+            "item": "minecraft:slime_ball"
+        }
+    },
+    "result": {
+        "item": "minecraft:sponge",
+        "count": 1
+    }
+}

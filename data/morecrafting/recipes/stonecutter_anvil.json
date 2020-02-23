@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:anvil"
+    },
+    "result": "minecraft:iron_block",
+    "count": 3
+}

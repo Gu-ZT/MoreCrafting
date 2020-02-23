@@ -1,5 +1,5 @@
-{
-    "type": "crafting_shaped",
+﻿{
+    "type": "minecraft:crafting_shaped",
     "pattern": [
         "#H#",
         "H#H",
@@ -16,6 +16,5 @@
     "result": {
         "item": "minecraft:leather",
         "count": 2
-    },
-    "group": "Custom"
+    }
 }

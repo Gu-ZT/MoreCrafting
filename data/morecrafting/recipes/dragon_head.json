@@ -1,5 +1,5 @@
 {
-    "type": "crafting_shaped",
+    "type": "minecraft:crafting_shaped",
     "pattern": [
         " H#",
         "###",
@@ -16,6 +16,5 @@
     "result": {
         "item": "minecraft:dragon_head",
         "count": 1
-    },
-    "group": "Custom"
+    }
 }

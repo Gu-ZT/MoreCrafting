@@ -1,5 +1,5 @@
 {
-        "type": "crafting_shapeless",
+        "type": "minecraft:crafting_shapeless",
         "ingredients": [
                 {
                                 "item": "minecraft:quartz"
@@ -7,10 +7,10 @@
                 {
                                 "item": "minecraft:flint"
                 },
-				                {
+		{
                                 "item": "minecraft:flint"
                 },
-				                {
+		{
                                 "item": "minecraft:flint"
                 }
         ],
